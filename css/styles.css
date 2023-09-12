@@ -7,7 +7,7 @@ body{
 background-color: #fff;
 color: #000;
 }
-.navbar-header{
+.container-fluid, .navbar-header{
     background-color: #eaeaea !important;
 }
 a.navbar-brand{
