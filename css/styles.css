@@ -7,6 +7,9 @@ body{
 background-color: #fff;
 color: #000;
 }
+.navbar-header{
+    background-color: #eaeaea;
+}
 a.navbar-brand{
     color: #000 !important;
 }
